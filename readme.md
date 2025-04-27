@@ -33,6 +33,7 @@ Special thanks
    <br> Labiba Aziz: [Labiba's Github Link](https://github.com/azizlabi)
    <br> Xinyu Huang: [Xinyu's Github Link](https://github.com/Xinyuhh)
    <br> Fatima Ali: [Fatima's Github Link](https://github.com/faaali)
+   <br> Kirsty Ihenetu: [Kirsty's Github Link](https://github.com/kirstyihen)
 - Social Science Research Council and Measure of America
 - Breakthrough Tech AI
 - Rebecca Gluskin Deputy Director, Data Scientist at Measure of America 
